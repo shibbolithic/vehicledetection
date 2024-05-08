@@ -1,5 +1,17 @@
+# Vehicle Detection Project
 
-3. Open the Jupyter notebook `vehicle_detection.ipynb` to access the code and execute it in your preferred environment.
+This repository contains code for a vehicle detection project using convolutional neural networks (CNNs). The project focuses on detecting vehicles in images using a deep learning approach.
+
+## Introduction
+
+The project aims to develop a vehicle detection system capable of identifying vehicles in images accurately. It utilizes CNNs, a popular deep learning technique, for image classification tasks.
+
+## Installation
+
+To run the code in this repository, follow these steps:
+
+1. Clone the repository to your local machine.   
+2. Open the Jupyter notebook `vehicle_detection.ipynb` to access the code and execute it in your preferred environment.
 
 ## Usage
 
