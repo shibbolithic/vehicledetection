@@ -1,33 +1,30 @@
-Vehicle Detection Project
-This repository contains code for a vehicle detection project using Convolutional Neural Networks (CNNs). The project aims to accurately classify images containing vehicles and non-vehicles. It includes data preprocessing, model building, training, evaluation, and analysis steps.
+# Vehicle Detection Project
 
-Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Model Architecture](#model-architecture)
+- [Training](#training)
+- [Evaluation](#evaluation)
+- [Prediction](#prediction)
+- [Analysis](#analysis)
+- [Saving](#saving)
+- [Contributing](#contributing)
 
-Introduction
-Installation
-Usage
-Dataset
-Model Architecture
-Training
-Evaluation
-Prediction
-Analysis
-Saving
-Contributing
-License
+## Introduction
 
+Vehicle detection is an essential task in various applications such as autonomous driving, traffic monitoring, and surveillance systems. This project focuses on building a deep learning model capable of accurately detecting vehicles in images.
 
-Introduction
-Vehicle detection is an essential task in various applications such as autonomous driving, traffic monitoring, and surveillance systems. This project focuses on building a deep-learning model capable of accurately detecting vehicles in images.
+## Installation
 
-Installation
+- Clone the repository:
 
-To run the code in this repository, follow these steps:
- 1. Clone the repository: git clone https://github.com/your_username/vehicle-detection.git 
- 2. Download the dataset.
+  ```bash
+  git clone https://github.com/your_username/vehicle-detection.git
 
-Usage
-After installing the dependencies and downloading the dataset, you can use the Jupyter Notebook or Python scripts to preprocess the data, build and train the model, and evaluate its performance.
+  Usage
+After installing the dependencies and downloading the dataset, you can use the provided Jupyter notebook or Python scripts to preprocess the data, build and train the model, and evaluate its performance.
 
 Dataset
 The dataset used in this project consists of images containing vehicles and non-vehicles. It is divided into training, validation, and test sets for model development and evaluation.
@@ -51,8 +48,5 @@ Saving
 The trained model and its weights are saved for future use. Additionally, class indices and image size information are stored in CSV files for reference.
 
 Contributing
-Contributions to this project are welcome. Feel free to open an issue or submit a pull request if you have any ideas for improvement or find any issues.
-
-License
-This project is licensed under the MIT License.
+Contributions to this project are welcome. If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
